@@ -287,3 +287,57 @@ a.headerlink { display: none; }
     text-decoration: underline;
 }
 
+/* ── Readers landing page ─────────────────────────────────────────────── */
+/* Everything above is the docs hub's custom.css verbatim. The hub card rules
+   key on the hub's own section ids, so the one card on this index gets the
+   same values here. Keep them in step with the card rules above. */
+#cryptnox-smart-card-readers > hr {
+    display: none;
+}
+
+#compatibility-guides {
+    background: #fff;
+    border-bottom: 1px solid #e1e4e5;
+    padding: 1.5rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: relative;
+}
+
+#compatibility-guides h2 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #2c3e50;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+#compatibility-guides p {
+    color: #6b7a8a;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-bottom: 0;
+    max-width: 680px;
+}
+
+#compatibility-guides ul {
+    list-style: disc !important;
+    padding-left: 1.5rem !important;
+    margin-left: 0 !important;
+    margin-top: 0.25rem;
+    margin-bottom: 0;
+}
+
+#compatibility-guides ul li {
+    list-style: disc !important;
+    margin-left: 0 !important;
+    margin: 0;
+}
+
+#compatibility-guides ul li p {
+    margin: 0;
+    color: #6b7a8a;
+}
+

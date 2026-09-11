@@ -30,8 +30,8 @@ common cause of a reader "not working".
    :depth: 1
 
 
-The two readers
-===============
+Reader specifications
+=====================
 
 .. list-table::
    :header-rows: 1

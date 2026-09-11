@@ -192,8 +192,8 @@ Two related consequences worth stating plainly:
   same as passwordless support, and individual server implementations of CTAP1 vary.
 
 
-What these cards cannot do
-==========================
+Limitations
+===========
 
 * **Passwordless everywhere.** These are **MFA-first**: a hardware second factor on top of
   a password. Passwordless works only where a service has explicitly enabled FIDO2-only
