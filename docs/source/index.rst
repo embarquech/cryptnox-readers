@@ -52,9 +52,3 @@ Other resources
 * `Cryptnox Website <https://www.cryptnox.com>`_
 * `Cryptnox on GitHub <https://github.com/cryptnox>`_
 * `Contact Cryptnox <https://cryptnox.com/contact/>`_
-
-|
-
--------------------------
-
-..
